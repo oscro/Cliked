@@ -2,61 +2,73 @@
     {
       "id": 1,
       "name": "Beach",
-      "image": "./images/beach.jpg"
+      "image": "./images/beach.jpg",
+      "clicked": 0
     },
     {
       "id": 2,
       "name": "Glacier",
-      "image": "./images/glacier.jpg"
+      "image": "./images/glacier.jpg",
+      "clicked": 0
     },
     {
       "id": 3,
       "name": "Green Mountain",
-      "image": "./images/greenMountain.jpg"
+      "image": "./images/greenMountain.jpg",
+      "clicked": 0
     },
     {
       "id": 4,
       "name": "Green Plants",
-      "image": "./images/greenPlants.jpg"
+      "image": "./images/greenPlants.jpg",
+      "clicked": 0
     },
     {
       "id": 5,
       "name": "Hiking",
-      "image": "./images/hiking.jpg"
+      "image": "./images/hiking.jpg",
+      "clicked": 0
     },
     {
       "id": 6,
       "name": "Mountain",
-      "image": "./images/mountain.jpg"
+      "image": "./images/mountain.jpg",
+      "clicked": 0
     },
     {
       "id": 7,
       "name": "Red Rock",
-      "image": "./images/redRock.jpg"
+      "image": "./images/redRock.jpg",
+      "clicked": 0
     },
     {
       "id": 8,
       "name": "Rock Sunset",
-      "image": "./images/rockSunset.jpg"
+      "image": "./images/rockSunset.jpg",
+      "clicked": 0
     },
     {
       "id": 9,
       "name": "Snow Mountain",
-      "image": "./images/snowMountain.jpg"
+      "image": "./images/snowMountain.jpg",
+      "clicked": 0
     },
     {
       "id": 10,
       "name": "Tropical",
-      "image": "./images/tropical.jpg"
+      "image": "./images/tropical.jpg",
+      "clicked": 0
     },
     {
       "id": 11,
       "name": "Waterfall",
-      "image": "./images/waterfall.jpg"
+      "image": "./images/waterfall.jpg",
+      "clicked": 0
     },
     {
       "id": 12,
       "name": "Second Waterfall",
-      "image": "./images/waterfall2.jpg"
+      "image": "./images/waterfall2.jpg",
+      "clicked": 0
     }
   ]
