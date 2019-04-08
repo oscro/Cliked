@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Beach",
+      "image": "./images/beach.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Glacier",
+      "image": "./images/glacier.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Green Mountain",
+      "image": "./images/greenMountain.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Green Plants",
+      "image": "./images/greenPlants.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hiking",
+      "image": "./images/hiking.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mountain",
+      "image": "./images/mountain.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Red Rock",
+      "image": "./images/redRock.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rock Sunset",
+      "image": "./images/rockSunset.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Snow Mountain",
+      "image": "./images/snowMountain.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Tropical",
+      "image": "./images/tropical.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Waterfall",
+      "image": "./images/waterfall.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Second Waterfall",
+      "image": "./images/waterfall2.jpg"
+    }
+  ]
