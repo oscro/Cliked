@@ -9,7 +9,7 @@ class ImageBox extends Component {
         clicked: 0 
     };
 
-    handleClick = event => {
+    handleClick = (event, array) => {
         let click = this.state.clicked + 1;
         
         // event.target.data-clicked + 1;
@@ -17,6 +17,8 @@ class ImageBox extends Component {
         this.setState({
             clicked: click
         });
+
+        // ()=>image.image.clicked = image.image.clicked + 1)
 
         console.log(this.state.clicked);
 
