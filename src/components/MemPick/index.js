@@ -38,6 +38,7 @@ class MemPick extends Component {
         return (
             <ImageBox
                 src={arry[key].image}
+                key={arry.id}
             // clicked={this.state.clicked}
             // onClick={() => this.handleClick()}
             />

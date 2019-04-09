@@ -16,7 +16,7 @@ class ImageBox extends Component {
             clicked: click
         });
         // ()=>image.image.clicked = image.image.clicked + 1)
-        console.log(this.state.clicked);
+        console.log("This image was clicked: " + this.state.MemoryImages + " Times clicked: " + this.state.clicked);
     }
 
     // src={this.state.MemoryImages[this.props.key].image}
@@ -28,6 +28,7 @@ class ImageBox extends Component {
                     className="img-thumbnail rounded float-left"
                     src={this.props.src}
                     alt=""
+                    key={this.props.key}
                     onClick={this.handleClick}
                 />
             </div>
